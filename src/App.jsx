@@ -1,10 +1,11 @@
 import React from 'react'
+import Accordion from './Components/Accordion/Accordion'
 
 const App = () => {
   return (
-    <div>
-      <h1>Accordion</h1>
-    </div>
+    <>
+      <Accordion />
+    </>
   )
 }
 
